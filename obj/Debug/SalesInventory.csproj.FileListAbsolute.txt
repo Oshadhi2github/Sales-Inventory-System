@@ -1,0 +1,14 @@
+E:\Asp.net projects\SalesInventory\bin\Debug\SalesInventory.exe.config
+E:\Asp.net projects\SalesInventory\bin\Debug\SalesInventory.exe
+E:\Asp.net projects\SalesInventory\bin\Debug\SalesInventory.pdb
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.csproj.AssemblyReference.cache
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.csproj.SuggestedBindingRedirects.cache
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.Form1.resources
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.Properties.Resources.resources
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.csproj.GenerateResource.cache
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.csproj.CoreCompileInputs.cache
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.exe
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.pdb
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.Form2.resources
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.Form3.resources
+E:\Asp.net projects\SalesInventory\obj\Debug\SalesInventory.Login.resources
